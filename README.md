@@ -1,16 +1,19 @@
-### Hi there 👋
+![maydev](https://user-images.githubusercontent.com/75485964/133290415-86fcafc0-6e2a-4268-a302-934c965fb135.jpg)
 
-<!--
-**maychaza/maychaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Sobre mi 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me defino como una persona ordenada, paciente y amante de la naturaleza.
+Me encanta estudiar, soy apasionada por descubrir cosas nuevas.
+Mi curiosidad por conocer me trajo hasta este mundo IT, en donde estoy realizando un BootCamp de JAVA en ADA ITW.
+
+
+### Tecnologias adquiridas 🔭
+
+JAVA 11 | API Rest | Hibernate | Maven | Spring Boot | JPA | SQL | MongoDB | POO
+
+
+
+
+⚡JAVA BACKEND DEVELOPER
+BUENOS AIRES
