@@ -15,7 +15,7 @@ Mi curiosidad por conocer me trajo hasta este mundo IT, en donde estoy realizand
 
 ##  Tecnologias adquiridas 🔭
 
-JAVA 11 | API Rest | Hibernate | Maven | Spring Boot | MySQL | MongoDB | POO
+JAVA 11 | API Rest | Hibernate | Maven | Spring Boot | SQL | MongoDB | POO
 
 
 ## Contacto
