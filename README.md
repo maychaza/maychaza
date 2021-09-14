@@ -15,7 +15,10 @@ Mi curiosidad por conocer me trajo hasta este mundo IT, en donde estoy realizand
 JAVA 11 | API Rest | Hibernate | Maven | Spring Boot | MySQL | MongoDB | POO
 
 
+## Contacto
+
+[Linkedin](https://www.linkedin.com/in/mayra-chazarreta-812659217/)
 
 
-⚡JAVA BACKEND DEVELOPER
+## ⚡ JAVA BACKEND DEVELOPER
 BUENOS AIRES
