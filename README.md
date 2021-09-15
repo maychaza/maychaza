@@ -20,7 +20,7 @@ JAVA 11 | API Rest | Hibernate | Maven | Spring Boot | SQL | MongoDB | POO
 
 ## Contacto
 
-[Linkedin](https://www.linkedin.com/in/mayra-chazarreta-812659217/)
+[Linkedin](https://www.linkedin.com/in/mayrachazarreta/)
 
 
 ### ⚡ JAVA BACKEND DEVELOPER
